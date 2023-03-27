@@ -4,6 +4,13 @@
 
 - Review how the `map()` method works
 - Demonstrate `map()` with `Array`s
+
+cf 
+
+const tit = = () => {
+  return j.map(tutorial => {
+    
+  
 - Demonstrate `map()` with complex data structures
 
 ## Introduction
